@@ -1,0 +1,8 @@
+Modelo Conceitual - Locadora de Carros
+
+-Especificar o modelo e os aprimoramentos;
+-Não precisa do "controle de estoque";
+-"cliente" estará associado a "reserva de veículos" que estará associado ao "carro";
+-Os demais estarão associados ao "carro";
+-Não é preciso "devolução";
+-adicionar mais atributos.
